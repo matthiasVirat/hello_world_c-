@@ -1,0 +1,7 @@
+S:\TechDev2020\SVG_Etudiants\Matthias_Virat\c#\HelloworldConsole\HelloworldConsole\bin\Debug\HelloworldConsole.exe.config
+S:\TechDev2020\SVG_Etudiants\Matthias_Virat\c#\HelloworldConsole\HelloworldConsole\bin\Debug\HelloworldConsole.exe
+S:\TechDev2020\SVG_Etudiants\Matthias_Virat\c#\HelloworldConsole\HelloworldConsole\bin\Debug\HelloworldConsole.pdb
+S:\TechDev2020\SVG_Etudiants\Matthias_Virat\c#\HelloworldConsole\HelloworldConsole\obj\Debug\HelloworldConsole.csprojAssemblyReference.cache
+S:\TechDev2020\SVG_Etudiants\Matthias_Virat\c#\HelloworldConsole\HelloworldConsole\obj\Debug\HelloworldConsole.csproj.CoreCompileInputs.cache
+S:\TechDev2020\SVG_Etudiants\Matthias_Virat\c#\HelloworldConsole\HelloworldConsole\obj\Debug\HelloworldConsole.exe
+S:\TechDev2020\SVG_Etudiants\Matthias_Virat\c#\HelloworldConsole\HelloworldConsole\obj\Debug\HelloworldConsole.pdb
